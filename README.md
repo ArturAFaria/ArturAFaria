@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturafaria&label=Profile%20views&color=0e75b6&style=flat" alt="arturafaria" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **IBM Data Science Certificate**
 
-- 💬 Ask me about **SQL, Python & Java**
+- 💬 Ask me about **Python, Statistcs & ML**
 
 - 📫 How to reach me **turefaria@gmail.com**
 
