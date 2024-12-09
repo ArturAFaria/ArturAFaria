@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artur Faria</h1>
-<h3 align="center">Estudante de Sistemas de Informação</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturafaria&label=Profile%20views&color=0e75b6&style=flat" alt="arturafaria" /> </p>
 
-- 🌱 I’m currently learning **IBM Data Science Certificate**
+- 🌱 I’m currently learning **C/C++**
 
-- 💬 Ask me about **Python, Statistcs & ML**
+- 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **turefaria@gmail.com**
 
